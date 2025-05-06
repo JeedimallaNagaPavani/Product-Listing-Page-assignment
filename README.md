@@ -1,14 +1,46 @@
-<<<<<<< HEAD
-# React Product Listing Page (PLP)
 
-A simple Product Listing Page built with React and styled using CSS. This project includes:
-- Product cards
-- Authentication form (Sign In / Sign Up)
-- Component-based structure
+# 🛍️ Product Listing Page - React.js Assignment
+
+# 🛍️ React Product Listing Page (PLP)
+
+A responsive and modern **Product Listing Page (PLP)** built with **React.js** and **pure CSS**.
+
+This project features a modular layout, user authentication form, and responsive design to demonstrate practical front-end development skills.
 
 ---
 
-## 📁 Folder Structure
+## 🎯 Objective
+
+This project was created as part of a design-to-code assignment to:
+- Reproduce a PLP based on a Figma design
+- Integrate user authentication (Sign In / Sign Up)
+- Use **React** for component-driven development
+- Ensure responsive design across devices
+- Deploy using **Vercel** or **Netlify**
+
+---
+
+## 🚀 Features
+
+- 🔐 **User Authentication**  
+  Switchable form for Sign In and Sign Up, using controlled components.
+
+- 💡 **Reusable Components**  
+  Product cards and form are modular and reusable.
+
+- 💅 **Pure CSS Styling**  
+  Styled using plain CSS—no external frameworks like Tailwind or Bootstrap.
+
+- 📱 **Fully Responsive**  
+  Works smoothly on desktop, tablet, and mobile.
+
+- 🌐 **Deployed Publicly**  
+  Live preview accessible via public URL.
+
+---
+
+## 📁 Project Structure
+
 
 plp-css/
 ├── public/
@@ -26,10 +58,6 @@ plp-css/
 │   ├── App.css
 │   └── index.css
 
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -54,61 +82,35 @@ Edit
 npm start
 The app will be live at: http://localhost:3000
 
-🌐 Deployment
-Option 1: Deploy to Vercel
-Go to https://vercel.com
-
-Sign in with GitHub
-
-Click "Add New Project" and import your repo
-
-Hit "Deploy"
-
-Option 2: Deploy to Netlify
-Go to https://netlify.com
-
-Connect your GitHub repo
-
-Set build command to: npm run build
-
-Set publish directory to: build
-
-Click "Deploy Site"
-
-🧩 Features
-React functional components with useState
-
-Simple email/password auth form (UI only)
-
-Modular file structure
-
-Pure CSS styling (no frameworks)
-
-🛠️ Tech Stack
-React.js
-
-CSS
-
-📸 Screenshots
-You can include screenshots of your app here.
-
-📄 License
-This project is licensed under the MIT License.
-
-yaml
+🌐 Deployment Instructions
+🔄 Push to GitHub
+bash
 Copy
 Edit
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/YOUR_USERNAME/plp-css.git
+git push -u origin main
+🚀 Deploy on Vercel (Recommended)
+Go to https://vercel.com
 
----
+Import your GitHub repository
 
-Would you like me to generate and include actual screenshots or GitHub badges in the README too?
+Hit "Deploy" (auto-detects React)
+
+🌍 Live URL
+
+🔗 https://your-app-name.vercel.app
+
+
+🧠 Tech Stack
+
+Frontend: React.js
+
+Styling: CSS
+
+Deployment: Vercel / Netlify
 
 
 
-
-
-
-
-=======
-# Product-Listing-Page-assignment
->>>>>>> 8ad869bb729e522daf8abfa7915c33063f5caa33
