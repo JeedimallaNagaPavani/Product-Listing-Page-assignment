@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Product Listing Page (PLP)
 
 A simple Product Listing Page built with React and styled using CSS. This project includes:
@@ -108,3 +109,6 @@ Would you like me to generate and include actual screenshots or GitHub badges in
 
 
 
+=======
+# Product-Listing-Page-assignment
+>>>>>>> 8ad869bb729e522daf8abfa7915c33063f5caa33
